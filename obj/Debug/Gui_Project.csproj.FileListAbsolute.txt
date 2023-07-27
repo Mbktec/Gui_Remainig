@@ -1,0 +1,16 @@
+C:\Users\GABERA\Desktop\app\Gui_Project\bin\Debug\Gui_Project.exe.config
+C:\Users\GABERA\Desktop\app\Gui_Project\bin\Debug\Gui_Project.exe
+C:\Users\GABERA\Desktop\app\Gui_Project\bin\Debug\Gui_Project.pdb
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.csproj.AssemblyReference.cache
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\MainWindow.g.cs
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\App.g.cs
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project_MarkupCompile.cache
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project_MarkupCompile.lref
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\MainWindow.baml
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.g.resources
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.Properties.Resources.resources
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.csproj.GenerateResource.cache
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.csproj.CoreCompileInputs.cache
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.exe
+C:\Users\GABERA\Desktop\app\Gui_Project\obj\Debug\Gui_Project.pdb
